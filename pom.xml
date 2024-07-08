@@ -9,6 +9,9 @@
     <module>ch03</module>
     <module>ch03</module>
     <module>ch04</module>
+    <module>ch05</module>
+    <module>ch06</module>
+    <module>ch07</module>
   </modules>
   <version>1.0-SNAPSHOT</version>
   <name>frontend-dev-basics Maven Webapp</name>
